@@ -18,7 +18,7 @@ function About() {
         <p className="about__describtion">
             I am a web developer and designer. I have been working in this field for 1 year. I have worke
             on
-            many projects. I am a web developer and designer. I have been working in this field for 1 year. I have worke
+            many projects.
         </p>
         <a download="" href="../../Pratham_kumar-cv.pdf" className="button button--flex">Download CV</a>
       </div>

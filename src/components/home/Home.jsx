@@ -6,7 +6,7 @@ import Scrolldown from './Scrolldown'
 
 function Home() {
   return (
-   <section className='home-section ' id='#home'>
+   <section className='home-section ' id='home'>
     <div className=' home-container container grid'>
         <div className='grid home-content'>
             <Social/>
