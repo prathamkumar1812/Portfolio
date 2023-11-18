@@ -22,7 +22,7 @@ function Header() {
               </a>
             </li>
             <li className='nav_item'>
-              <a href="#skill" className='nav_link'>
+              <a href="#skills" className='nav_link'>
             <i className='uil uil-file-alt nav_icon'></i>Skill
               </a>
             </li>
@@ -37,7 +37,7 @@ function Header() {
               </a>
             </li>
             <li className='nav_item'>
-              <a href="#connect" className='nav_link'>
+              <a href="#contact" className='nav_link'>
             <i className='uil uil-message scenery nav_icon'></i>Connect
               </a>
             </li>
