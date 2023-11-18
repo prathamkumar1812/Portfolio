@@ -12,12 +12,12 @@ function Header() {
         <div className={toggle?"nav-menu show-menu":"nav-menu"}>
           <ul className='nav_list grid'>
             <li className='nav_item'>
-              <a href="#Home" className='nav_link'>
+              <a href="#home" className='nav_link'>
             <i className='uil uil-estate nav_icon'></i>Home
               </a>
             </li>
             <li className='nav_item'>
-              <a href="#About" className='nav_link'>
+              <a href="#about" className='nav_link'>
             <i className='uil uil-user nav_icon'></i>About
               </a>
             </li>
