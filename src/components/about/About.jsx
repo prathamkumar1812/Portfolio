@@ -20,7 +20,7 @@ function About() {
             on
             many projects. I am a web developer and designer. I have been working in this field for 1 year. I have worke
         </p>
-        <a download="" href="cv" className="button button--flex">Download CV</a>
+        <a download="" href="../../Pratham_kumar-cv.pdf" className="button button--flex">Download CV</a>
       </div>
     </div>
  </section>
