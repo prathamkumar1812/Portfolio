@@ -60,8 +60,8 @@ function Contact() {
                         placeholder='Insert your Email'/>
 
                     </div>
-                    <div className="contact__form-div">
-                        <label className="contact__form-tag">Project</label>
+                    <div className="contact__form-div contact__form-area">
+                        <label className="contact__form-tag">Project</label> 
                        <textarea name="project" cols="30" rows="10"
                        className='contact__form-area' placeholder='Write your project'></textarea>
 
