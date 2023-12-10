@@ -4,15 +4,16 @@ import './scrollup.css'
 function ScrollUp() {
     window.addEventListener('scroll',()=>{
         const scrollup = document.querySelector('.scrollup');
-        if(this.scrollY >= 200){
-            scrollup.classList.add('show-scrollup')
+        if(window.scrollY >= 560){
+            scrollup.classList.add('show-scroll')
         }else{
-            scrollup.classList.remove('show-scrollup')
+            
+            scrollup.classList.remove('show-scroll')
         }
     })
   return (
    <a href='#' className='scrollup'>
-    <i className="uil uil-arrow-up scrollup_icon"></i>
+    <i className="uil uil-arrow-up scrollup__icon"></i>
    </a>
   )
 }

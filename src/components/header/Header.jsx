@@ -27,16 +27,6 @@ function Header() {
               </a>
             </li>
             <li className='nav_item'>
-              <a href="#services" className='nav_link'>
-            <i className='uil uil-briefcase-alt nav_icon'></i>Services
-              </a>
-            </li>
-            <li className='nav_item'>
-              <a href="#portfolio" className='nav_link'>
-            <i className='uil uil-scenery nav_icon'></i>Portfolio
-              </a>
-            </li>
-            <li className='nav_item'>
               <a href="#contact" className='nav_link'>
             <i className='uil uil-message scenery nav_icon'></i>Connect
               </a>

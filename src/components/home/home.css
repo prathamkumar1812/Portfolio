@@ -1,3 +1,4 @@
+
 .home-content{
     grid-template-columns: 116px repeat(2, 1fr);
     padding-top: 5.5rem;
@@ -49,7 +50,7 @@
 }
 
 .home-img{
-    background-image: url("../../assets/4CFFFFB7-0458-4471-A29D-D98AF5433668_1_201_a.jpeg");
+    background-image: url("/assets/4CFFFFB7-0458-4471-A29D-D98AF5433668_1_201_a.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

@@ -3,7 +3,7 @@ import './contact.css'
 
 function Contact() {
   return (
-    <section className="section contact" id="contact">
+    <section className="section contact " id="contact">
         <h2 className="section__title">Get in touch</h2>
         <span className="section__subtitle">Contact me</span>
         <div className="contact__container container grid">
@@ -15,7 +15,7 @@ function Contact() {
                     <div className="contact__card">
                         <i className="bx bx-mail-send contact__card-icon"></i>
                         <h3 className="contact__card-title">Email</h3>
-                        <span className="contact__card-data">prathamkumar@gmail.com</span>
+                        <span className="contact__card-data">prathamkumar.mbd@gmail.com</span>
                         <a href="mailto:prathamkumar.mbd@gmail.com" className="contact__button">
                             Write me {" "}
                             <i className="bx bx-right-arrow-alt contact__button-icon"></i>
@@ -27,7 +27,7 @@ function Contact() {
                         <span className="contact__card-data">
                             +91 8899694540
                         </span>
-                        <a href="" className="contact__button">
+                        <a href="https://api.whatsapp.com/send?phone=+918899694540&text=Hello, more information!" className="contact__button">
                             Write me {" "}
                             <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                         </a>
@@ -54,7 +54,7 @@ function Contact() {
                     <div className="contact__form-div contact__form-area">
                         <label className="contact__form-tag">Project</label> 
                        <textarea name="project" cols="30" rows="10"
-                       className='contact__form-area' placeholder='Write your project'></textarea>
+                       className='contact__form-input' placeholder='Write your project'></textarea>
 
 
                     </div>

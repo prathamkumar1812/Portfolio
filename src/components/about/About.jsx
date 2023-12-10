@@ -12,7 +12,7 @@ function About() {
         My Introduction
     </span>
     <div className="about__container container grid">
-      <img src="../../assets/4CFFFFB7-0458-4471-A29D-D98AF5433668_1_201_a.jpeg" alt="person" className="about__img" />
+      <img src="/assets/4CFFFFB7-0458-4471-A29D-D98AF5433668_1_201_a.jpeg" alt="person" className="about__img" />
       <div className="about__data">
         <Info/>
         <p className="about__describtion">

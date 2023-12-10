@@ -16,6 +16,6 @@
 .scrollup:hover{
     background-color: var(--title-color-dark);
 }
-.show-scrollup{
+.show-scroll{
    bottom: 3rem;
 }
